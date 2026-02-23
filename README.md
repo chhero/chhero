@@ -14,7 +14,46 @@
 <img src="https://komarev.com/ghpvc/?username=chhero&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
+<div align="center" style="position: relative; width: 100%; height: 350px; overflow: hidden; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; margin: 20px 0;">
+  
+  <style>
+    @keyframes drone-circle {
+      0% {
+        transform: translate(0, 0) rotate(0deg);
+      }
+      25% {
+        transform: translate(300px, -100px) rotate(90deg);
+      }
+      50% {
+        transform: translate(0px, -200px) rotate(180deg);
+      }
+      75% {
+        transform: translate(-300px, -100px) rotate(270deg);
+      }
+      100% {
+        transform: translate(0, 0) rotate(360deg);
+      }
+    }
+    
+    .flying-drone {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      top: 50%;
+      left: 50%;
+      animation: drone-circle 10s infinite linear;
+      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+    }
+  </style>
 
+  <img src="https://svgsilh.com/svg/161445.svg" alt="Flying Drone" class="flying-drone" />
+  
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 26px; font-weight: bold; text-align: center; z-index: 0;">
+    <p style="margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🛰️ Geospatial Intelligence</p>
+    <p style="margin: 5px 0 0 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Deep Learning • UAV Technology</p>
+  </div>
+  
+</div>
 ---
 
 ## 🚀 About Me
