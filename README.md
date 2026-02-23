@@ -361,11 +361,7 @@ Tacloban City, Leyte 🇵🇭
 <br>
 
 ### 🐍 Watch my contributions get eaten by a snake!
-```
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.4.1
-```
-<br>
+
 
 **Thanks for visiting! Have a great day! 🌟**
 
