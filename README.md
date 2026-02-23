@@ -362,6 +362,7 @@ Tacloban City, Leyte 🇵🇭
 
 ### 🐍 Watch my contributions get eaten by a snake!
 
+<img src="https://github.com/chhero/chhero/blob/d0e3ec22a122e221e6dae4c9ad25d1215f2ea5a2/github-user-contribution%20(1).svg" />
 
 **Thanks for visiting! Have a great day! 🌟**
 
