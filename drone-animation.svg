@@ -30,7 +30,7 @@
       .drone-group {
         animation: flight-path 12s infinite ease-in-out;
         transform-origin: center;
-        filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+        filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
       }
 
       .propeller {
@@ -40,7 +40,7 @@
     </style>
   </defs>
 
-  <!-- Flying drone group -->
+  <!-- Flying drone group - NO BACKGROUND -->
   <g class="drone-group">
     <g transform="translate(500, 150)">
       <!-- Main body -->
@@ -104,7 +104,7 @@
 
       <!-- Antenna -->
       <rect x="-2" y="-35" width="4" height="10" fill="#7f8c8d"/>
-      <circle cx="0" cy="-37" r="3" fill="#e74c3c"/>
+      <circle cx="0" cy="-37" r="3" fill="#e74c3c" opacity="0.9"/>
 
       <!-- LED lights -->
       <circle cx="-45" cy="-15" r="2" fill="#2ecc71" opacity="0.9"/>
