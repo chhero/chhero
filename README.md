@@ -19,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/chhero/chhero/main/drone-animation.svg" alt="Flying Drone" width="100%" max-width="1000px" />
 </div>
 
-
 ## 🚀 About Me
 
 **Remote Sensing Technologist and GIS Specialist** with **4+ years of experience** in geospatial analysis and proficiency in GIS software. Along with around **200+ hours** of training and certifications. 
