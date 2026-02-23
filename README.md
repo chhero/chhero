@@ -84,7 +84,6 @@ Passionate about **deep learning** and **machine learning model development**, w
 
 
 ### 🚁 UAV & Drone Software
-<img src="https://media.giphy.com/media/l0HlR3OwsKi17oQU0/giphy.gif" width="80" alt="Drone animation" align="right" />
 ![DJI Terra](https://img.shields.io/badge/DJI_Terra-000000?style=for-the-badge&logo=dji&logoColor=white)
 ![Pix4D](https://img.shields.io/badge/Pix4DMapper-00A0DC?style=for-the-badge&logo=pix4d&logoColor=white)
 ![DJI FlightSim](https://img.shields.io/badge/DJI_FlightSim-000000?style=for-the-badge&logo=dji&logoColor=white)
