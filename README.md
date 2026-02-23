@@ -13,10 +13,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=chhero&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/chhero/chhero/main/drone-animation.svg" alt="Flying Drone Animation" width="100%" />
-</div>
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chhero/chhero/main/drone-animation.svg" alt="Flying Drone" width="100%" max-width="1000px" />
+</div>
+
 
 ## 🚀 About Me
 
