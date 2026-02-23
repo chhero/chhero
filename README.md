@@ -1,5 +1,9 @@
 <div align="center">
-
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chhero/chhero/main/drone-animation.svg" alt="Flying Drone" width="100%" max-width="1000px" />
+</div>
+  
 # 👋 Hi, I'm Clemente III M. Abines
 ### 🛰️ Remote Sensing Technologist | 🗺️ GIS Specialist | 🤖 ML Enthusiast
 
@@ -15,9 +19,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/chhero/chhero/main/drone-animation.svg" alt="Flying Drone" width="100%" max-width="1000px" />
-</div>
 
 ## 🚀 About Me
 
