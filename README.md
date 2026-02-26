@@ -32,7 +32,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="left">
+<div align="center">
 
 ### 💻 Core Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -94,7 +94,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
 
 </div>
-
+<div align="left">
 ## 🎯 Key Projects & Achievements
 
 <details>
@@ -208,7 +208,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 **Tech Stack:** ArcGIS Pro, Geostatistics, Kriging, Spatial Analysis, Geotechnical Engineering
 
 </details>
-
+</div>
 ---
 
 ## 📊 GitHub Stats
