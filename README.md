@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/chhero/chhero/main/drone-animation.svg" alt="Flying Drone" width="100%" max-width="1000px" />
 </div>
   
-# 👋 Hi, I'm Clemente III M. Abines
-### 🛰️ Remote Sensing Technologist | 🗺️ GIS Specialist | 🤖 ML Enthusiast
+# Hi, I'm Clemente III M. Abines
+### Remote Sensing Technologist | GIS Specialist | ML Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=4%2B+Years+in+Geospatial+Analysis;Deep+Learning+%7C+UAV+Technology;Environmental+Conservation+Advocate;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
@@ -26,15 +26,15 @@
 
 Passionate about **deep learning** and **machine learning model development**, with expertise in automating data modeling workflows integrating **Satellite and UAV imageries**.
 
-### 🎯 What I Do
+### What I Do
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
-### 💻 Core Programming Languages
+### Core Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -42,14 +42,14 @@ Passionate about **deep learning** and **machine learning model development**, w
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🎨 Web Development
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🤖 Deep Learning & ML Frameworks
+### Deep Learning & ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -57,7 +57,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFD700?style=for-the-badge&logo=yolo&logoColor=black)
 
-### 📊 Data Science & ML Libraries
+### Data Science & ML Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
@@ -65,7 +65,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗺️ GIS & Remote Sensing Tools
+### GIS & Remote Sensing Tools
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
@@ -73,7 +73,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 ![GDAL](https://img.shields.io/badge/GDAL-4E9B0F?style=for-the-badge&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-00B4D8?style=for-the-badge&logoColor=white)
 
-### 🛠️ Development Tools & Platforms
+### Development Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -82,7 +82,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### 🚁 UAV & Drone Software
+### UAV & Drone Software
 ![DJI Terra](https://img.shields.io/badge/DJI_Terra-000000?style=for-the-badge&logo=dji&logoColor=white)
 ![Pix4D](https://img.shields.io/badge/Pix4DMapper-00A0DC?style=for-the-badge&logo=pix4d&logoColor=white)
 ![DJI FlightSim](https://img.shields.io/badge/DJI_FlightSim-000000?style=for-the-badge&logo=dji&logoColor=white)
@@ -95,10 +95,10 @@ Passionate about **deep learning** and **machine learning model development**, w
 
 </div>
 <div align="left">
-## 🎯 Key Projects & Achievements
+## Key Projects & Achievements
 
 <details>
-<summary><b>🦆 Automated Wildlife Detection System</b></summary>
+<summary><b> Automated Wildlife Detection System</b></summary>
 <br>
 
 - Developed deep learning model using **YOLO11** architecture
@@ -126,7 +126,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 </details>
 
 <details>
-<summary><b>🗺️ Multi-Hazard Risk Mapping System</b></summary>
+<summary><b> Multi-Hazard Risk Mapping System</b></summary>
 <br>
 
 - Created comprehensive multi-hazard maps integrating **Flood, Tsunami, Earthquake, and Storm Surge** risk indices
@@ -140,7 +140,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 </details>
 
 <details>
-<summary><b>🌿 Urban Greenspace Detection Model</b></summary>
+<summary><b> Urban Greenspace Detection Model</b></summary>
 <br>
 
 - Spearheaded **Random Forest Regression** model development for automated greenspace detection
@@ -154,7 +154,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 </details>
 
 <details>
-<summary><b>🌊 Protected Area Mapping & Drone Operations</b></summary>
+<summary><b> Protected Area Mapping & Drone Operations</b></summary>
 <br>
 
 - Led UAV data collection and spatial analysis for **Biri-LaRosa Protected Landscape and Seascape**
@@ -168,7 +168,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 </details>
 
 <details>
-<summary><b>✈️ Web-Based Drone Logbook System</b></summary>
+<summary><b> Web-Based Drone Logbook System</b></summary>
 <br>
 
 - Built comprehensive **UAV operations tracking system** for DENR Region VIII
@@ -182,7 +182,7 @@ Passionate about **deep learning** and **machine learning model development**, w
 </details>
 
 <details>
-<summary><b>📊 LiDAR Point Cloud Classification & Annotation</b></summary>
+<summary><b> LiDAR Point Cloud Classification & Annotation</b></summary>
 <br>
 
 - Classified **LiDAR point clouds** following **ASPRS/ISPRS** standards
